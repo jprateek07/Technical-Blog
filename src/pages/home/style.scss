@@ -1,0 +1,12 @@
+.home-page{
+    text-align: center;
+    .icon-cards{
+        border:1px solid rgb(200, 198, 198);
+        margin: 5px;
+        border-radius: 6px;
+        cursor: pointer;
+        .anticon{
+            font-size: 50px;
+        }
+    }
+}
